@@ -1,0 +1,64 @@
+" HP DeskJet 2630 Wireless All-in-One Printers"
+={
+	key=" HP DeskJet 2630 Wireless All-in-One Printers"
+	ship_prefix="HP"
+	species={
+		class="Printers"
+		portrait="hpprinter"
+		name=" HP DeskJet 2630 Wireless All-in-One Printer"
+		plural="HP DeskJet 2630 Wireless All-in-One Printer"
+		adjective="HP DeskJet 2630 Wireless All-in-One Printer"
+		name_list="PRINTER1"
+		trait="trait_machine_unit"
+		trait="trait_robot_repurposed_hardware"
+		trait="trait_robot_high_maintenance"
+		trait="trait_robot_logic_engines"
+		trait="trait_robot_mass_produced"
+	}
+	name="HP DeskJet 2630 Wireless All-in-One Printers"
+	adjective="HP DeskJet 2630 Wireless All-in-One Printeran"
+	authority="auth_machine_intelligence"
+	government="gov_machine_terminator"
+	advisor_voice_type="l_xenophobe"
+	planet_name="Printer Prime"
+	planet_class="pc_desert"
+	system_name="HP DeskJet 2630 Wireless All-in-One Printers Sun"
+	initializer=""
+	graphical_culture="avian_01"
+	city_graphical_culture="mammalian_01"
+	empire_flag={
+		icon={
+			category="Printers"
+			file="flag_printer_1.dds"
+		}
+		background={
+			category="backgrounds"
+			file="v.dds"
+		}
+		colors={
+			"light_blue"
+			"light_blue"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=female
+		name="Alpha"
+		portrait="hpprinter"
+		texture=2
+		hair=0
+		clothes=0
+		ruler_title="Version"
+		leader_class="ruler"
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_federation_builders_room"
+	spawn_enabled=always
+	ethic="ethic_gestalt_consciousness"
+	civics={
+		"civic_machine_terminator"
+		"civic_machine_replication"
+	}
+}

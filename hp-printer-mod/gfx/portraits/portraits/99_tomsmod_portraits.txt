@@ -1,0 +1,3 @@
+portraits = {
+	hpprinter = { texturefile = "gfx/models/portraits/printerhp/hpprinter.dds"	}
+}
