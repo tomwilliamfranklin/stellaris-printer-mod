@@ -8,7 +8,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1593301672
 https://mods.paradoxplaza.com/mods/3645/Any
 
 
-#Media Attention
+# Media Attention
 * PC Gamer Article
 https://www.pcgamer.com/stellaris-printer-mod/
 
